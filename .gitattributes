@@ -1,1 +1,6 @@
 <<<<<<< HEAD
+# Auto detect text files and perform LF normalization * text=auto
+=======
+# Auto detect text files and perform LF normalization
+* text=auto
+>>>>>>> cb5c143c4bd1c16b90a881d3181573235a2443be
